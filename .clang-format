@@ -1,0 +1,20 @@
+Language: Cpp
+
+BasedOnStyle: LLVM
+
+UseCRLF: true
+IndentWidth: 4
+ColumnLimit: 100
+MaxEmptyLinesToKeep: 2
+AccessModifierOffset: -4
+
+PPIndentWidth: 2
+IncludeBlocks: Regroup
+SortIncludes: false
+IndentPPDirectives: BeforeHash
+AlignConsecutiveMacros: Consecutive
+AlwaysBreakTemplateDeclarations: Yes
+
+SpaceAfterCStyleCast: true
+AlignArrayOfStructures: Right
+AlignConsecutiveAssignments: Consecutive
