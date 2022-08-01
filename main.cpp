@@ -22,7 +22,7 @@ void init() {
     std::cout << "+-------------------------------------------------------------------------+\n";
 
     std::cout << "QUICKSTART:\n"
-              << "\tPRESS [L] to start / stop\n\n";
+              << "\tPRESS [F10] to start / stop\n\n";
 }
 
 
