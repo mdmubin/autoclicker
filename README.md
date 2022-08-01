@@ -9,3 +9,7 @@ Dead Simple Auto-Clicker for Windows.
 3. Press `F10` to stop auto-clicking
 
 Can't get simpler than that.
+
+
+**NOTE**
+Windows will probably complain about the file being unsafe to run.
