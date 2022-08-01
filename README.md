@@ -4,7 +4,7 @@ Dead Simple Auto-Clicker for Windows.
 > **Click rate** = 10CPS
 
 ## Usage
-1. Download & Run MDM_AC.exe
+1. Download & Run clicker.exe
 2. Press `F10` to start auto-clicking
 3. Press `F10` to stop auto-clicking
 
